@@ -64,7 +64,7 @@ Centralizar a gestão da frota e reduzir o controle manual de veículos, motoris
 
 ## Autor
 
-Gabriel Reis
+Gabriel Reis / 
 Juliano Ballestrin
 
 Projeto em produção e também parte da minha evolução em desenvolvimento de software.
